@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fabiokusaba
-- 👀 I’m interested in JavaScript, HTML, NodeJS
-- 🌱 I’m currently learning SQL, database
-- 💞️ I’m looking to collaborate on new projects and start my career as a junior dev
+- 👀 I’m interested in JavaScript, HTML, CSS, React, NodeJS
+- 🌱 I’m currently Front-end programming student at Udemy.
 - 📫 How to reach me @fabiokusaba all socials
 
 <!---
