@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabiokusaba
-- 👀 I’m interested in JavaScript, HTML, CSS, React, NodeJS
+- 👀 I’m interested in JavaScript, Python, HTML, CSS, React, NodeJS
 - 🌱 I’m currently Front-end programming student at Udemy.
 - 📫 How to reach me @fabiokusaba all socials
 
