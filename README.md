@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabiokusaba
-- 👀 I’m interested in JavaScript, Python, HTML, CSS, React, NodeJS
-- 🌱 I’m currently Front-end programming student at Udemy.
+- 👀 I’m interested in JavaScript, Typescript, React, Next.JS, Python, Node.JS, mySQL
+- 🌱 I’m currently analysis and systems development student at Toledo Prudente.
 - 📫 How to reach me @fabiokusaba all socials
 
 <!---
