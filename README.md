@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabiokusaba
-- 👀 I’m interested in Java, JavaScript, Typescript, React, Python, Django, SQL, noSQL
+- 👀 I’m interested in Java, Kotlin, JavaScript, Typescript, Node.js
 - 🌱 I’m currently analysis and systems development student at Toledo Prudente.
 - 📫 How to reach me @fabiokusaba all socials
 
