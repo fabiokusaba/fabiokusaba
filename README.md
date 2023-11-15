@@ -35,15 +35,15 @@ Estudante de Análise e Desenvolvimento de Sistesmas, desenvolvedor FullStack co
 ### Meus Principais Projetos
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=listatelefonica-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=todolist-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=snapclima&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=cardapio-digital-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=cardapio-digital-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=listatelefonica-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/listatelefonica-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=todolist-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/todolist-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=snapclima&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/snapclima)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=cardapio-digital-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/cardapio-digital-frontend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=cardapio-digital-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/cardapio-digital-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/api-backend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/api-frontend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/angular17-backend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/angular17-frontend)
 
 ### Minhas Contribuições
 
