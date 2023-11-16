@@ -1,6 +1,6 @@
 # Fabio Hifumi Kusaba Barbosa
 
-Estudante de Análise e Desenvolvimento de Sistesmas, desenvolvedor FullStack com ênfase em Backend, iniciei na programação ao final de 2022 e desde então venho cultivando a minha paixão por novas tecnologias, absorvendo conhecimento a cada dia. Apaixonado por tecnologia tenho como hobby assistir animes e séries, gastronomia e brincar com a minha cachorrinha. Em fase de transição de carreira estou em busca de ingressar no mercado da tecnologia como desenvolvedor ou estagiário para poder contribuir com os meus conhecimentos na resolução de problemas.
+Bacharel em Direito por formação iniciei na programação ao final de 2022 e desde então venho cultivando a minha paixão por novas tecnologias, absorvendo conhecimento a cada dia. Ingressei no curso de Análise e Desenvolvimento de Sistemas como uma forma de adquirir novos conhecimentos, novas vivências e contribuir para a minha formação como um profissional, desenvolvedor FullStack tenho como principais tecnologias no desenvolvimento Backend Java com Spring e C# com .NET, no Frontend minhas principais tecnologias são Angular e React. Possuo como hobby assistir animes e séries, gastronomia e brincar com a minha cachorrinha. Em fase de transição de carreira estou em busca de novas oportunidades em que eu possa contribuir com os meus conhecimentos para a resolução de problemas complexos, almejando desenvolvimento pessoal e profissional.
 
 ### Conecte-se comigo
 
