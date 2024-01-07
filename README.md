@@ -44,6 +44,7 @@ Bacharel em Direito por formação iniciei na programação ao final de 2022 e d
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/api-frontend)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/angular17-backend)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/angular17-frontend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=finshark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/finshark)
 
 ### Minhas Contribuições
 
