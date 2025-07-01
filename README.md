@@ -4,7 +4,6 @@ Bacharel em Direito por formação iniciei na programação ao final de 2022 e d
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/fabinhokb44)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabinhokb44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/fabiokusaba/)
 
@@ -26,27 +25,3 @@ Bacharel em Direito por formação iniciei na programação ao final de 2022 e d
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabiokusaba)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiokusaba&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabiokusaba&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-### Meus Principais Projetos
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=listatelefonica-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/listatelefonica-app)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=todolist-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/todolist-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=snapclima&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/snapclima)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=cardapio-digital-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/cardapio-digital-frontend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=cardapio-digital-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/cardapio-digital-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/api-backend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=api-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/api-frontend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/angular17-backend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=angular17-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/angular17-frontend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiokusaba&repo=finshark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiokusaba/finshark)
-
-### Minhas Contribuições
-
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
